@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS">
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/Bucatarie/Bucatarie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/Bucatarie/TipSupa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/clase/Supa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/clase/SupaDeCiuperci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/clase/SupaDeLegume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/clase/SupaVita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Factory/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Prototype/Prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/rezervare/ARezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/rezervare/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/Seminar4_CTS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/rezervare/Rezervare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar4_CTS/Prototype/src/rezervare/Rezervare.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741983515921</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seminar CTS">
+      <option name="closed" value="true" />
+      <created>1742571314293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742571314293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

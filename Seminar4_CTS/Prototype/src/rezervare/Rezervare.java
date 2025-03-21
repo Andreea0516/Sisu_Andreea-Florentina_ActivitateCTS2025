@@ -1,28 +1,39 @@
 package rezervare;
 
 public class Rezervare extends ARezervare{
-    protected Boolean isInterior;
+    public Boolean esteInInterior;
 
-    public Rezervare(String nume, int ora, int nrPersoane, int zi) {
+    public Rezervare(){
+        super();
+        esteInInterior = true;
+    }
+
+    public Rezervare(String nume, int ora, int nrPersoane, int zi, Boolean esteInInterior) {
         super(nume, ora, nrPersoane, zi);
+        this.esteInInterior = esteInInterior;
     }
 
     @Override
     public ARezervare clonare(int zi) {
-        Rezervare r =new Rezervare();
-        r.isInterior=this.isInterior;
-        r.nume=this.nume;
-        r.ora=this.ora;
-        r.nrPersoane=this.nrPersoane;
-        r.zi=this.zi;
+        Rezervare rezervare = new Rezervare();
+        rezervare.nume = this.nume;
+        rezervare.ora = this.ora;
+        if(zi>1 && zi<31){
+            rezervare.zi = zi;
+        }else rezervare.zi = 1;
+        rezervare.esteInInterior = this.esteInInterior;
+        return rezervare;
     }
 
-    public Rezervare(){
-        super();
-        isInterior=Boolean.TRUE;
-    }
 
-    public Boolean getInterior() {
-        return isInterior;
+    @Override
+    public String toString() {
+        return "Rezervare{" +
+                "esteInInterior=" + esteInInterior +
+                ", nume='" + nume + '\'' +
+                ", ora=" + ora +
+                ", nrPersoane=" + nrPersoane +
+                ", zi=" + zi +
+                '}';
     }
 }
