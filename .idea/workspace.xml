@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar 5 CTS">
-      <change afterPath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/src/clase/AdaptorMedicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/src/clase/MedicamentFarmacie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/src/clase/MedicamentSpital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar6_CTS/Seminar6_CTS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar5_CTS/Builder/Builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar5_CTS/Builder/src/Clase/AbstractBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/src/Clase/AbstractBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar5_CTS/Builder/src/Clase/Pacient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/src/Clase/Pacient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar5_CTS/Builder/src/Clase/PacientBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/src/Clase/PacientBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar5_CTS/Builder/src/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/src/Main/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,13 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1743667930312</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Seminar CTS">
+      <option name="closed" value="true" />
+      <created>1743691903172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743691903172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Seminar CTS" />
     <MESSAGE value="Seminar 5 CTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar 5 CTS" />
+    <MESSAGE value="Seminar CTS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar CTS" />
   </component>
 </project>
