@@ -1,6 +1,6 @@
 package ro.cts.pachet.Singleton.clase;
 
-public class AgentieImobiliaraLazy {
+public class AgentieImobiliaraLazy {//e thread safe
     private String nume;
     private int numarAnunturi;
     private String site;

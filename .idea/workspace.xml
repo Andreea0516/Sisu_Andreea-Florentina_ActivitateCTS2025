@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS" />
+    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS">
+      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/src/clase/ARezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/src/clase/Rezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar3_CTS/src/ro/cts/pachet/Singleton/clase/AgentieImobiliaraLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_CTS/src/ro/cts/pachet/Singleton/clase/AgentieImobiliaraLazy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,12 +64,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Deea/IdeaProjects/Seminar1_CTS/Seminar5_CTS",
+    "last_opened_file_path": "C:/Users/Deea/IdeaProjects/Seminar1_CTS/Seminar4_CTS/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Deea\IdeaProjects\Seminar1_CTS\Seminar4_CTS\src" />
       <recent name="C:\Users\Deea\IdeaProjects\Seminar1_CTS\Seminar5_CTS" />
       <recent name="C:\Users\Deea\IdeaProjects\Seminar1_CTS\Seminar3_CTS\src\ro\cts\pachet\Lazy" />
       <recent name="C:\Users\Deea\IdeaProjects\Seminar1_CTS\Seminar2_CTS\src" />
@@ -138,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743691903172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Seminar CTS">
+      <option name="closed" value="true" />
+      <created>1743695347449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743695347449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
