@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS">
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/src/clase/ARezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/src/clase/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar4_CTS/src/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar3_CTS/src/ro/cts/pachet/Singleton/clase/AgentieImobiliaraLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar3_CTS/src/ro/cts/pachet/Singleton/clase/AgentieImobiliaraLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,7 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2td2ZqtZd89vt5bYmYDhYKAbtCt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -65,6 +62,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Deea/IdeaProjects/Seminar1_CTS/Seminar4_CTS/src",
+    "onboarding.tips.debug.path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar8_CTS/Decorator/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
