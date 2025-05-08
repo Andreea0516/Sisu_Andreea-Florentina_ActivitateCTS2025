@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" filepath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" filepath="$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_CTS/Seminar5_CTS.iml" filepath="$PROJECT_DIR$/Seminar5_CTS/Seminar5_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_CTS/Seminar6_CTS.iml" filepath="$PROJECT_DIR$/Seminar6_CTS/Seminar6_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_CTS.iml" filepath="$PROJECT_DIR$/Seminar_CTS.iml" />
     </modules>
   </component>
