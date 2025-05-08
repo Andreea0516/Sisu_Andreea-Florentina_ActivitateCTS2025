@@ -28,13 +28,13 @@ public class Departament extends StructuraAbs{
 
     @Override
     public void afiseazaDescriere(String tab) {
-
         System.out.println(tab + "Departamentul: "+ this.getNume() + " contine urmatoarele subdepartamente: ");
         for(StructuraAbs str : structuriList)
         {
             str.afiseazaDescriere(tab+ "   ");
         }
     }
+
 
     @Override
     public int calculeazaNumarAngajati() {

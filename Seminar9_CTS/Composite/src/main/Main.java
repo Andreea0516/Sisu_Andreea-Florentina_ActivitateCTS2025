@@ -22,7 +22,7 @@ public class Main {
 
     System.out.println(d1.calculeazaNumarAngajati());
     System.out.println(d2.calculeazaNumarAngajati());
-    d1.afiseazaDescriere();
+    d1.afiseazaDescriere(" ");
 
 
     }

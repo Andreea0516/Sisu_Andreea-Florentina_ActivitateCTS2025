@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS">
-      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/Departament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/Sectie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/StructuraAbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/Departament.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/Departament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/StructuraAbs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/clase/StructuraAbs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar9_CTS/Composite/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746396621321</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Seminar CTS">
+      <option name="closed" value="true" />
+      <created>1746715645587</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746715645587</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

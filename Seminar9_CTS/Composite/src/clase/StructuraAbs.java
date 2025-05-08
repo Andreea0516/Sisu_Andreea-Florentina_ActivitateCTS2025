@@ -31,8 +31,7 @@ public abstract class StructuraAbs {
 
  public abstract StructuraAbs getNodCopil(int index);
 
-    public static void afiseazaDescriere(String tab) {
-    }
+    public abstract void afiseazaDescriere(String tab);
 
     public abstract int calculeazaNumarAngajati();
 
