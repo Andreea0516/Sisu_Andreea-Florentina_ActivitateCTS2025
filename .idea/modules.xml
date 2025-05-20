@@ -4,14 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" filepath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11_CTS/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar11_CTS/ChainOfResponsability/ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Facade/Facade.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" filepath="$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_CTS/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Seminar5_CTS/Factory_Method/Factory_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_CTS/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar10_CTS/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_CTS/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Seminar4_CTS/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_CTS/Seminar10_CTS.iml" filepath="$PROJECT_DIR$/Seminar10_CTS/Seminar10_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11_CTS/Seminar11_CTS.iml" filepath="$PROJECT_DIR$/Seminar11_CTS/Seminar11_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2_CTS/Seminar2_CTS.iml" filepath="$PROJECT_DIR$/Seminar2_CTS/Seminar2_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3_CTS/Seminar3_CTS.iml" filepath="$PROJECT_DIR$/Seminar3_CTS/Seminar3_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_CTS/Seminar4_CTS.iml" filepath="$PROJECT_DIR$/Seminar4_CTS/Seminar4_CTS.iml" />
@@ -20,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_CTS.iml" filepath="$PROJECT_DIR$/Seminar_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_CTS/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar10_CTS/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar11_CTS/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/Seminar11_CTS/TemplateMethod/TemplateMethod.iml" />
     </modules>
   </component>
 </project>
