@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" filepath="$PROJECT_DIR$/Seminar4_CTS/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_CTS/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Seminar5_CTS/Factory_Method/Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10_CTS/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar10_CTS/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptTest/Observer-Spital/Observer-Spital.iml" filepath="$PROJECT_DIR$/ptTest/Observer-Spital/Observer-Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4_CTS/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Seminar4_CTS/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
@@ -25,7 +26,6 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Seminar8_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_CTS.iml" filepath="$PROJECT_DIR$/Seminar_CTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar10_CTS/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar10_CTS/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ptTest/Strategy-11-Spital/Strategy-11-Spital.iml" filepath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/Strategy-11-Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/ptTest/Template-14Restaurant/Template-14Restaurant.iml" filepath="$PROJECT_DIR$/ptTest/Template-14Restaurant/Template-14Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11_CTS/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/Seminar11_CTS/TemplateMethod/TemplateMethod.iml" />

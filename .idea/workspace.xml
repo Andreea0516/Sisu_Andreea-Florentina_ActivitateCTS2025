@@ -4,31 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Seminar CTS">
-      <change afterPath="$PROJECT_DIR$/Seminar10_CTS/Strategy/src/clase/Calator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_CTS/Strategy/src/clase/CardBancar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_CTS/Strategy/src/clase/CardCalatorii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_CTS/Strategy/src/clase/IMetodaPlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_CTS/Strategy/src/clase/SMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar10_CTS/Strategy/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/Chain- 6-Farmacie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/src/clase/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/src/clase/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/src/clase/HandlerCardSanatate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/src/clase/HandlerReteta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/src/clase/HandlerStoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/Strategy-11-Spital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/src/clase/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/src/clase/Cash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/src/clase/IMetodaPlata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/src/clase/Pacient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Template-14Restaurant/Template-14Restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Template-14Restaurant/src/clase/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Template-14Restaurant/src/clase/TemplateRestaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/Template-14Restaurant/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ptTest/ptTest.iml" afterDir="false" />
+    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Exersare test">
+      <change afterPath="$PROJECT_DIR$/ptTest/Observer-Spital/Observer-Spital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ptTest/Observer-Spital/src/clase/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ptTest/Observer-Spital/src/clase/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ptTest/Observer-Spital/src/clase/Spital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ptTest/Observer-Spital/src/clase/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ptTest/Observer-Spital/src/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -41,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -87,7 +69,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar10_CTS/Strategy/src/main",
-    "onboarding.tips.debug.path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/ptTest/Chain- 6-Farmacie/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/ptTest/Observer-Spital/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -203,14 +185,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747735943702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exersare test">
+      <option name="closed" value="true" />
+      <created>1747912847747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747912847747</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Seminar 5 CTS" />
     <MESSAGE value="Seminar CTS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar CTS" />
+    <MESSAGE value="Exersare test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exersare test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
