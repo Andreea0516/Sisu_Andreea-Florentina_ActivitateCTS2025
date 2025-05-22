@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="Exersare test">
-      <change beforePath="$PROJECT_DIR$/Seminar8_CTS/Decorator/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar8_CTS/Decorator/src/main/Main.java" afterDir="false" />
+    <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="schimbari">
+      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/IRezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/ProxyNumarPersoane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/ProxyOra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/Rezervare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,21 +65,21 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar10_CTS/Strategy/src/main",
+    "last_opened_file_path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar8_CTS/src/main",
     "onboarding.tips.debug.path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/ptTest/Observer-Spital/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar8_CTS\src\main" />
+      <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar8_CTS\src" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Strategy\src\main" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Strategy\src\clase" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Strategy\src" />
-      <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar11_CTS\TemplateMethod\src\main" />
-      <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar11_CTS\TemplateMethod\src\clase" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Observer\src\clase" />
@@ -194,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747914164062</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Exersare test">
+      <option name="closed" value="true" />
+      <created>1747914766843</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747914766843</updated>
+    </task>
+    <task id="LOCAL-00013" summary="schimbari">
+      <option name="closed" value="true" />
+      <created>1747914812932</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747914812932</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,7 +222,8 @@
     <MESSAGE value="Seminar 5 CTS" />
     <MESSAGE value="Seminar CTS" />
     <MESSAGE value="Exersare test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exersare test" />
+    <MESSAGE value="schimbari" />
+    <option name="LAST_COMMIT_MESSAGE" value="schimbari" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
