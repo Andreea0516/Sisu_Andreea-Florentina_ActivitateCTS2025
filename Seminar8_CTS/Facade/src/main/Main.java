@@ -1,7 +1,6 @@
 package main;
 
-import ro.cts.facade.clase.Masa;
-import ro.cts.facade.clase.Receptionist;
+import clase.*;
 
 public class Main {
     public static void main(String[] args) {
