@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" filepath="$PROJECT_DIR$/Seminar6_CTS/AdapterClase_Medicamente/AdapterClase_Medicamente.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/Seminar5_CTS/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/Chain- 6-Farmacie.iml" filepath="$PROJECT_DIR$/ptTest/Chain- 6-Farmacie/Chain- 6-Farmacie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11_CTS/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/Seminar11_CTS/ChainOfResponsability/ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Seminar8_CTS/Decorator/Decorator.iml" />
@@ -25,7 +26,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" filepath="$PROJECT_DIR$/Seminar9_CTS/Seminar9_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_CTS.iml" filepath="$PROJECT_DIR$/Seminar_CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar10_CTS/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar10_CTS/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptTest/Strategy-11-Spital/Strategy-11-Spital.iml" filepath="$PROJECT_DIR$/ptTest/Strategy-11-Spital/Strategy-11-Spital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptTest/Template-14Restaurant/Template-14Restaurant.iml" filepath="$PROJECT_DIR$/ptTest/Template-14Restaurant/Template-14Restaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar11_CTS/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/Seminar11_CTS/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptTest/ptTest.iml" filepath="$PROJECT_DIR$/ptTest/ptTest.iml" />
     </modules>
   </component>
 </project>
