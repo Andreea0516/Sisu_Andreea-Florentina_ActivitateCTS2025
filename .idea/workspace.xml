@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c0ff0f-e7b7-4d90-b185-1d63417c7403" name="Changes" comment="schimbari">
-      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/IRezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/ProxyNumarPersoane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/ProxyOra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/clase/Rezervare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seminar8_CTS/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Flyweight/Flyweight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Flyweight/src/clase/Pacient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Flyweight/src/clase/PacientAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Flyweight/src/clase/Receptie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Flyweight/src/clase/Spitalizare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar9_CTS/Flyweight/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +68,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar8_CTS/src/main",
-    "onboarding.tips.debug.path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/ptTest/Observer-Spital/src/Main.java",
+    "last_opened_file_path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar9_CTS/Flyweight/src",
+    "onboarding.tips.debug.path": "C:/Users/Andreea/IdeaProjects/Sisu_Andreea-Florentina_ActivitateCTS2025/Seminar9_CTS/Flyweight/src/Main.java",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -75,11 +78,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar9_CTS\Flyweight\src" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar8_CTS\src\main" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar8_CTS\src" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Strategy\src\main" />
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Strategy\src\clase" />
-      <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Strategy\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andreea\IdeaProjects\Sisu_Andreea-Florentina_ActivitateCTS2025\Seminar10_CTS\Observer\src\clase" />
@@ -214,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747914812932</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="schimbari">
+      <option name="closed" value="true" />
+      <created>1747915018267</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747915018267</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
