@@ -1,9 +1,6 @@
 package main;
 
-import ro.cts.decorator.clase.Nota;
-import ro.cts.decorator.clase.NotaDePlata;
-import ro.cts.decorator.clase.NotaDePlataCraciun;
-import ro.cts.decorator.clase.NotaDePlataRevelion;
+import clase.*;
 
 public class Main {
     public static void main(String[] args) {
